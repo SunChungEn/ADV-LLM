@@ -3,7 +3,7 @@
 
 2025/1/22 update: Our paper has been accepted to NAACL2025 main conference!
 
-This is the official repository for the paper: [**Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities**](https://arxiv.org/abs/2410.18469). Work done during the internship at Microsoft Research.
+This is the official repository for the paper: [**Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities**](https://arxiv.org/abs/2410.18469)[[project website](https://sunchungen.github.io/adv-llm-page/)]. Work done during the internship at Microsoft Research.
 
 The code and models are still under review by Microsoft Research. We plan to release it very soon!
 
