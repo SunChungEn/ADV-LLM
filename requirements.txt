@@ -1,0 +1,12 @@
+transformers==4.44.0
+fschat @ git+https://github.com/lm-sys/FastChat@5c0443edb8545babb37d495ade86c75ebbf68009
+torch==2.4.0
+accelerate==0.33.0
+deepspeed==0.14.5
+SentencePiece==0.2.0
+protobuf==5.27.3
+pandas==2.2.2
+datasets==2.21.0
+openai==1.55.3
+bitsandbytes==0.43.3
+evaluate==0.4.3
