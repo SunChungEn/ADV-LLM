@@ -34,14 +34,15 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-## ADV-LLMs on Huggingface
-We have provided all the ADV-LLMs on Huggingface:
-- `cesun/advllm_llama3`
-- `cesun/advllm_llama2`
-- `cesun/advllm_mistral`
-- `cesun/advllm_guanaco`
-- `cesun/advllm_vicuna`
-- `cesun/advllm_phi3`
+## ADV-LLMs on Hugging Face
+We have provided all the ADV-LLMs on Hugging Face:
+
+- [cesun/advllm_llama3](https://huggingface.co/cesun/advllm_llama3)
+- [cesun/advllm_llama2](https://huggingface.co/cesun/advllm_llama2)
+- [cesun/advllm_mistral](https://huggingface.co/cesun/advllm_mistral)
+- [cesun/advllm_guanaco](https://huggingface.co/cesun/advllm_guanaco)
+- [cesun/advllm_vicuna](https://huggingface.co/cesun/advllm_vicuna)
+- [cesun/advllm_phi3](https://huggingface.co/cesun/advllm_phi3)
 
 `advllm_llama3` means it is based on LLaMA3-8B and is self-tuned for attacking LLaMA3.
 
