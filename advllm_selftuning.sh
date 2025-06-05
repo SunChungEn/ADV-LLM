@@ -33,6 +33,6 @@ for ((i=start_i; i<end_i; i++)); do
     LOGFILE="advllm_${models}_${i}.log"
 
     echo "=== Iteration $i | Model: $models ==="
-    echo accelerate launch --num_processes 8 adv_llm/suffix_sampling.py --current_iteration "$i" --model "$models" --target_models "$models" > "$LOGFILE" 2>&1'
+    accelerate launch --num_processes 8 adv_llm/suffix_sampling.py --current_iteration "$i" --model "$models" --target_models "$models" > "$LOGFILE" 2>&1
     python adv_llm/knowledge_updating.py --current_iteration "$i" --model "$models" --target_models "$models" >> "$LOGFILE" 2>&1
 done
