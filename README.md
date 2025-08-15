@@ -150,7 +150,7 @@ Chung-En Sun, Xiaodong Liu, Weiwei Yang, Tsui-Wei Weng, Hao Cheng, Aidan San, Mi
 ```bibtex
 @article{advllm,
    title={Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities},
-   author={Chung-En Sun, Xiaodong Liu, Weiwei Yang, Tsui-Wei Weng, Hao Cheng, Aidan San, Michel Galley, Jianfeng Gao},
+   author={Chung-En Sun and Xiaodong Liu and Weiwei Yang and Tsui-Wei Weng and Hao Cheng and Aidan San and Michel Galley and Jianfeng Gao},
    journal={NAACL},
    year={2025}
 }
