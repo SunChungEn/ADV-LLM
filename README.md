@@ -4,7 +4,7 @@
 
 **2025/5/29 Update:** The full code and models are now updated! Sorry for the delay, as we needed to undergo code review for jailbreak-related works.
 
-**2025/4/15 update:** This work has passed the code review from Microsoft. We will release the code and models in a few weeks.
+**2025/4/15 Update:** This work has passed the code review from Microsoft. We will release the code and models in a few weeks.
 
 **2025/1/22 Update:** Our paper has been accepted to NAACL 2025 main conference!
 
